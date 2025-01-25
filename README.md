@@ -1,6 +1,6 @@
 # FloodVision - DeepLabV3Plus for Flood Detection - Sen1Flood11
 
-![Heade](img/Head.jpg)
+![Head](img/head.jpg)
 
 ## Synopsis
 
